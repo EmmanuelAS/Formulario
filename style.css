@@ -1,0 +1,14 @@
+.field{
+    border-radius: 10px;
+    border-color: #ff0077;
+}
+
+form{
+    background-color: rgb(62, 175, 240); /*color de fondo*/
+    border-radius: 10px #ff0077 solid  ; /*borde redondo*/
+    color: rgb(0, 0, 0); /*color de la letra*/
+    font-size: 16px;
+    margin: 30 px;
+    width: 300px;
+    height: 200px;
+}
